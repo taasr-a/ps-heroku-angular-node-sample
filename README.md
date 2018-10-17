@@ -1,7 +1,5 @@
 # README
-
 This is a sample Angular/Node app that can be deployed to a Heroku environment.
-
 Here's how to do that:
 
 * Make sure you have a Heroku account
